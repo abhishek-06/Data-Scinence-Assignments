@@ -1,1 +1,1 @@
-# Data-Scinence-Lab
+# Data-Scinence-Assignments
